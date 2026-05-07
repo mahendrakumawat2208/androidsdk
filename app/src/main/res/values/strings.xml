@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AndroidInstrumentation</string>
+    <string name="first_page_title">First Page</string>
+    <string name="first_page_subtitle">Call the first API, then navigate to the next page with the response data.</string>
+    <string name="button_load_first_api">Load First API</string>
+    <string name="button_crash_app">Crash the App</string>
+    <string name="second_page_title">Second Page</string>
+    <string name="second_page_subtitle">Data from the first API is shown below. Tap the button to call another API.</string>
+    <string name="first_api_result_title">First API Response</string>
+    <string name="button_load_second_api">Load Second API and Open Third Page</string>
+    <string name="button_previous_page">Previous Page</string>
+    <string name="third_page_title">Third Page</string>
+    <string name="third_page_subtitle">This page displays the response from the second API call.</string>
+    <string name="second_api_result_title">Second API Response</string>
+</resources>
